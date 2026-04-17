@@ -70,6 +70,7 @@ npm install
 
 # Run frontend
 npm run dev
+```
 
 ## 📌 Usage
 - Select a scripture  
